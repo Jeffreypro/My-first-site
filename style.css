@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+    background-image: url(pexels-pixabay-206359.jpg);
+}
+li{
+    list-style: none;
+}
+.header-logo{
+    float: left
+}
+.nav-bar{
+    float:right;
+}
+.nav-bar a{
+    text-decoration: none;
+    color:black;
+}
+.nav-bar li{
+    float:right;
+    padding: 20px 40px;
+}
